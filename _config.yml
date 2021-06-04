@@ -16,10 +16,10 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
+title      : Vineeth Kumar Portfolio
+email      : narenu96@Students.rowan.edu #this is also the email contact forms will go to
 description: "Site description"
-author     : Your Name
+author     : Vineeth Kumar Renukiuntla
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px

@@ -11,62 +11,62 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to My Page!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "HOBBIES"
+    text: "Do more of what makes you happy"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Playing Cricket"
+        desc: "I have been playing this game since my childhood. It has taught me the discipline of practice, how to rebound after a solid defeat, and that grit is more important than talent."
+        icon: fas fa-trophy #find more at https://fontawesome.com/icons
+      - title: "Reading Books"
+        desc: "Reading help us to relax. I like to read chetan bhagat books , The Three Mistakes Of My Life ,2 States. And vocabulary improves with reading books"
+        icon: fas fa-book
+      - title: "Listening Songs"
+        desc: "I love listening to AR rehman songs. Music has the power to change the mood."
+        icon: fas fa-headphones-alt
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "PROJECTS"
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "ABOUT ME"
+    text: "My Education and Work Experience !"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "High Schooling"
+        year: "2012-2014"
+        desc: "Navavignana Bharati JR college, Hyderabad . Completed with 98.5 aggregate in Maths,Physics and chemistry"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "NIT Trichy"
+        year: "2014-2018"
+        desc: "Studied the Computer science degree from one of the most premier insitutes in India. CGPA: 3.2/4.0 .Computational Theory , Operating systems , Compilers ,Data Mining and Machine learning"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "SDE at Nokia Networks"
+        year: "2018-2020"
+        desc: "A Software Engineer at Nokia Networks, worked for the products like SMP (Service Management Platform) and CDP .Worked on developing the Machine learning workflows for Troubleshooting Network devices.Had hands-on experience in technologies Java,Microservices,MariaDb and Power BI."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Rowan University"
+        year: "2020-21"
+        desc: "Doing my Masters in CSE at Rowan . CGPA 3.84/4 . Coursework includes Data Mining , Advanced TCP/IP and Web Programming."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Exciting Things <br> ahead for <br> ME!"
 
   about:
     title: "About Us"
@@ -92,45 +92,25 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "PROFILE"
+    text: "Remember, hope is a good thing, maybe the best of things, and no good thing ever dies."
+    subtext: My Dream is to work in FAANG. My interests includes data structures , Algoirthms ,Machine Learning and Web Programming too.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Vineeth Kumar Renukuntla"
+        role: "Rowan Student"
+        image: assets/img/team/Vinks.jpg
         social:
-          - url: https://twitter.com
+          - url: http://twitter.com/ImVinks45
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.facebook.com/v7702712066/
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/vineeth-kumar-103350149
             icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -146,15 +126,15 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: http://twitter.com/ImVinks45
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/v7702712066/
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/vineeth-kumar-103350149
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/vineeth450
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/vineethkumar45/
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN

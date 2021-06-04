@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+caption: #what displays in the portfolio grid:
+  title: Software Skillset
+  subtitle: Technical skills
+  thumbnail: assets/img/portfolio/42.jpg
+  
+#what displays when the item is clicked:
+title: Software Skillset
+subtitle: 
+image: assets/img/portfolio/Skillset.png #main image, can be a link or a file in assets/img/portfolio
+alt: image alt text
 
-caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+**Languages**    C ,C++ ,Java,SQL,javascript, HTML, python . 
+Have completed courses on Java , Springboot, React Js and Node js.
+Had hands-on experience in technologies Java,Microservices,MariaDb and Power BI
